@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9b8b2ef3.css",
+    "main.js": "./static/js/main.f984bf91.js",
+    "static/media/contact.png": "./static/media/contact.7fde92ed1d0a46d2f79b.png",
+    "static/media/solarsytem.png": "./static/media/solarsytem.e64f3185b7ae4d6b27fd.png",
+    "static/media/about.png": "./static/media/about.e8742e4c21d41a33a5f2.png",
+    "index.html": "./index.html",
+    "main.9b8b2ef3.css.map": "./static/css/main.9b8b2ef3.css.map",
+    "main.f984bf91.js.map": "./static/js/main.f984bf91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8b2ef3.css",
+    "static/js/main.f984bf91.js"
+  ]
+}
